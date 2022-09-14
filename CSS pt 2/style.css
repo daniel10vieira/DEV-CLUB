@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 200vw;
+    height: 200vh;
+}
+
+.div-dad{
+    position: fixed;
+    height: 350px;
+    width: 350px;
+    background-color: #FF1396;
+    opacity: 0.5;
+}
+
+.div-son{
+    width: 60%;
+    height: 60%;
+    background-color: #FF0;
+}
+
+.tanana{
+    width: 175px;
+    height: 175px;
+    background-color: red;
+}
