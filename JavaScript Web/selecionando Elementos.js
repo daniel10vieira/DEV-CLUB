@@ -32,5 +32,19 @@
 
 /*---------------- CSS - Eventos -----------------*/
 
-const element = document.querySelector('button')
+/* const element = document.querySelector('input')
+
+element.onkeypress = () => {
+    console.log('Pressionei uma tecla.')
+} */
+
+/*---------------- Propriedades Eventos -----------------*/
+
+/* const element = document.querySelector('input')
+
+element.onkeypress = (event) => {
+    console.log(event.target.value)
+} */
+
+/*---------------- Event Lisening -----------------*/
 
